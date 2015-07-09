@@ -1,1 +1,2 @@
-git learn lesson1
+git learn a lesson1
+git is a tool
